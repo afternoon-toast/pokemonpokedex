@@ -1,2 +1,3 @@
 # pok-monPok-dex
-is project focuses on scraping data related to Pokémons from a complete Pokédex; performing necessary transformations on the scraped data and then analyzing &amp; visualizing it using Python and Power BI.
+
+Project focuses on scraping data related to Pokémons from a complete Pokédex; performing necessary transformations on the scraped data and then analyzing &amp; visualizing it using Python and Power BI.
